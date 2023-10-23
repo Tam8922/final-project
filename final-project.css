@@ -1,0 +1,17 @@
+.page-container {
+    max-width: 80%;
+}
+
+nav {
+    width:100%;
+    margin-bottom: 10%;
+    background-color: #FF8A65;
+}
+
+.search-bar {
+    padding: 20px;
+}
+
+.search-button {
+
+}
